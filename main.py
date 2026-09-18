@@ -93,7 +93,7 @@ class Admin(Teacher):
                 print(f"Student {s.name} ,Roll {s.roll} has been removed")
                 break
             else:
-                print("Student not found")
+                print("Student not found!")
 
         
 
